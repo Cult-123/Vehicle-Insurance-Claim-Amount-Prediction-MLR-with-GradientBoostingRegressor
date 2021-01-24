@@ -1,0 +1,2 @@
+# Vehicle-Insurance-Claim-Amount-Prediction-MLR-with-GradientBoostingRegressor-main
+Python Data Science Project, Vehicle-Insurance-Claim-Amount-Prediction using MLR algo with 79.62% accuracy, RMSE: 10087, MAE: 8238, Mallow's_CP: 0.001, D_Watson: 1.919, F-Statistics: 571.7, Kurtosis: 3.539, Skewness: -0.061, No Multicollinearity. Alternatively GradientBoostingRegressor Algorithm has been used with 89.92% overall accuracy &amp; to know the other details check out the project.
